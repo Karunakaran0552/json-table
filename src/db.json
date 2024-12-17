@@ -1,0 +1,34 @@
+{
+   "users" :[{
+        "name":"Hari",
+        "sno":1,
+        "role":"Frontend developer",
+        "link":"https://www.youtube.com/watch?v=u9prsocEOt0"
+    },
+    {
+        "name":"Karan",
+        "sno":2,
+        "role":"Frontend developer",
+        "link":"https://www.youtube.com/watch?v=Uv7cKlZFXU8&t=6261s"
+    },
+    {
+        "name":"Rithan",
+        "sno":3,
+        "role":"Backend developer",
+        "link":"https://chatgpt.com/c/6756813c-6d60-8004-9a94-145fad6e08b7"
+    },
+    {
+        "name":"Ezhil",
+        "sno":4,
+        "role":"Fullstack developer",
+        "link":"#"
+    },
+    {
+        "name":"STR",
+        "sno":5,
+        "role":"Tester developer",
+        "link":"#"
+    }
+
+]
+}
